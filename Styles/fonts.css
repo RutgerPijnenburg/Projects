@@ -1,0 +1,21 @@
+.Title {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  padding: 2%;
+}
+
+.FITD p,
+.Creative-Programming p,
+.Creative-Electronics p,
+.Project1 p,
+.CreativeMech p {
+  margin: 3%;
+  background-color: black;
+}
+
+.Project-Title {
+  height: 10%;
+  font-size: 18px;
+  padding: 3%;
+}
